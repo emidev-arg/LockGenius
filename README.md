@@ -4,7 +4,7 @@
   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705599298/i1oyvil02ghurcl0eav6.svg"width="400"></a>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">Generador de contraseñas minimalista y facil de utilizar. <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">

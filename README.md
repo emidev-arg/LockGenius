@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705599298/i1oyvil02ghurcl0eav6.svg" alt="Markdownify" width="200"></a>
   <br>
   Markdownify
   <br>

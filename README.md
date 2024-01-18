@@ -7,9 +7,8 @@
 <h4 align="center">Generador de contraseñas minimalista y facil de utilizar.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
+  <a href="https://badge.fury.io/js/react.svg">
     <img src="https://badge.fury.io/js/react.svg"
-         alt="Gitter">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">

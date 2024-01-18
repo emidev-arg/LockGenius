@@ -1,0 +1,81 @@
+@import url('https://fonts.cdnfonts.com/css/unbounded');
+
+.toast-custom{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 100;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    animation: fadeIn;
+    animation-duration: 0.3s;
+    top: 0;
+}
+
+.toast-custom .item-toast{
+    width: 30%;
+    height: fit-content;
+    background-color: white;
+    border-radius: 13px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    padding: 2rem;
+    text-align: center;
+}
+
+.toast-custom .item-toast button{
+    border: 0;
+    background: 0;
+    margin-left: auto;
+    font-size: 30px;
+    padding: 5px 10px;
+    border-radius: 12px;
+    transition: 0.2s ease;
+}
+
+.toast-custom .item-toast button:hover{
+    background-color: #ececec;
+}
+
+.toast-custom .item-toast h1{
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+    background: linear-gradient(180deg, #555, #000 110%);
+    color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    margin-top: 3rem;
+    letter-spacing: -2px;
+}
+
+.toast-custom .item-toast p{
+    font-size: 1.1rem;
+}
+
+
+.toast-custom .item-toast .social{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 40%;
+    height: 5vh;
+    background-color: #f7f7f7;
+    border-radius: 9px;
+    gap: 30px;
+}
+
+.toast-custom .item-toast .social a{
+    color: rgb(63, 63, 63);
+    font-size: 23px;
+    transition: 0.2s ease;
+}
+
+.toast-custom .item-toast .social a:hover{
+    color: black;
+}

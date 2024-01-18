@@ -1,0 +1,32 @@
+.navbar{
+    padding: 2rem 3rem;
+    background-color: rgb(17, 17, 17);
+}
+
+.navbar img{
+    transition: 0.3s ease;
+}
+
+.navbar img:hover{
+    opacity: 60%;
+    cursor: pointer;
+}
+
+
+.navbar .container-nav{
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+}
+
+.container-nav a{
+    transition: 0.2s ease;
+    color: rgb(218, 218, 218);
+}
+
+.container-nav a:hover{
+    color: rgb(62, 62, 62);
+}

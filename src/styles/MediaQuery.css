@@ -1,0 +1,64 @@
+@media screen and (max-width: 768px) and (min-width: 200px) {
+    .controller h1{
+        font-size: 2.8rem;
+        letter-spacing: 0;
+    }
+    .controller p{
+        font-size: 1.1rem;
+    }
+
+    .controller .avanzed .checks{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-row: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 700px) and (min-width: 426px) {
+    .controller .config .input{
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 491px) and (min-width: 200px) {
+    .controller h1{
+        width: 100%;
+    }
+
+    .controller p{
+        font-size: 1.1rem;
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width: 427px) and (min-width: 200px) {
+    .controller .config{
+        width: 100%;
+        height: 60vh;
+        flex-direction: column;
+        padding: 0 2rem;
+    }
+
+    .controller .config .input{
+        width: 50%;
+        height: 10vh;
+    }
+
+    .controller .passwordShow{
+        height: 10vh;
+        margin-bottom: 2rem;
+    }
+}
+
+
+@media screen and (max-width: 376px) and (min-width: 200px) {
+    .controller h1{
+        font-size: 2rem;
+    }
+    
+    .controller .avanzed .checks{
+        display: flex;
+        flex-direction: column;
+    }
+}

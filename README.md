@@ -12,4 +12,4 @@
   </a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)

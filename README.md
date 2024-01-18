@@ -7,15 +7,8 @@
 <h4 align="center">Generador de contraseñas minimalista y facil de utilizar.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/react.svg">
-    <img src="https://badge.fury.io/js/react.svg"
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
   <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+    <img src="https://img.shields.io/badge/React%20the%20message-8A2BE2">
   </a>
 </p>
 

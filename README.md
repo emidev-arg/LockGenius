@@ -1,10 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705599298/i1oyvil02ghurcl0eav6.svg" alt="Markdownify" width="600"></a>
-  <br>
-  Markdownify
-  <br>
+  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://res.cloudinary.com/dn7fidyht/image/upload/v1705599298/i1oyvil02ghurcl0eav6.svg"width="400"></a>
 </h1>
 
 <h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>

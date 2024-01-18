@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/React%20the%20message-8A2BE2">
+    <img src="https://img.shields.io/badge/React%20the%20message-30adf0">
   </a>
 </p>
 
